@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudharsan-Ragavan
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning python
+- 👀 I’m interested in app development 
+- 🌱 I’m currently working undersome IoT project 😃
 
 <!---
 Sudharsan-Ragavan/Sudharsan-Ragavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
