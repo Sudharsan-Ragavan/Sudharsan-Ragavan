@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sudharsan-Ragavan
 - 👀 I’m interested in app development 
-- 🌱 😃
 
 <!---
 Sudharsan-Ragavan/Sudharsan-Ragavan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
